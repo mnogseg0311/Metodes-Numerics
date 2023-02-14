@@ -14,3 +14,4 @@ int	main()
 	printf("%.8G\n", fx);
 	return (0);
 }
+
