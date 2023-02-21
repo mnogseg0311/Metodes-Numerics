@@ -1,0 +1,3 @@
+# Metodes-numerics
+mnogseg0311
+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
