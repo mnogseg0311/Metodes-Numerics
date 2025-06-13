@@ -5,3 +5,4 @@ Codi desenvolpat en equips.
 
 Pràctica 1: errors.
 Pràctica 2: zeros de funcions.
+Pràctica 3: interpolació.
